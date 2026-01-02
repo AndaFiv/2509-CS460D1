@@ -1,0 +1,17 @@
+boxmot==16.0.6
+numpy==2.2.6
+pandas==2.3.3
+tqdm==4.67.1
+opencv-python==4.12.0.88
+matplotlib==3.10.8
+seaborn==0.12.3
+scipy==1.15.3
+scikit-learn==1.7.2
+joblib==1.5.3
+torch==2.9.1
+torchvision==0.24.1
+ultralytics==8.3.241
+pillow==12.0.0
+pyyaml==6.0
+ipython==8.37.0
+jupyter==1.1.1
